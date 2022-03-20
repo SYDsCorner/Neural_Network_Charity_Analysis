@@ -59,7 +59,8 @@
       
         ![Drop_columns](https://user-images.githubusercontent.com/89308251/148670603-121b5456-f25e-4564-9536-72a7fe787d2e.png)
 
-	
+------------------------------------------
+
 ### *** Compiling, Training, and Evaluating the Model ***
    - For the first model, I chose **2 hidden layers** with the **80** and **30 neurons** respectively.
       - **2 hidden layers**, this is because the additional layer was redundant or may increase the change of overfitting the train data.
@@ -71,7 +72,8 @@
            
           ![define_model](https://user-images.githubusercontent.com/89308251/148670697-983abeb0-93fc-4924-9252-2dd6f1bdcb8f.png)
 
-      
+------------------------------------------
+
 ### ** Optimizing the model: in order to achieve a target predictive accuracy higher than 75% from the **original 73%**
    - Besides **bucketing or binning** the `APPLICATION_TYPE` and `CLASSIFICATION` columns, I also binned the `ASK_AMT` column because the number of unique values in this
      column is pretty high and too different from the others. 
