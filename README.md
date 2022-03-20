@@ -3,9 +3,6 @@
 ![what-is-deep-learning-large](https://user-images.githubusercontent.com/89308251/148670046-54ee764e-52a5-4cfa-99f6-05497c0e4002.jpg)
 
 
-
-
-
 ## Challenge Overview
 
 ### Purpose:
